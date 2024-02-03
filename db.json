@@ -16,6 +16,10 @@
         }
     ],
     "products":[
-        
+        {
+            "name": "super puper lamp 😍",
+            "price": "2.000.000 $",
+            "power": "1 Kw"
+        }
     ]
 }
