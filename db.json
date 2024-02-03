@@ -17,9 +17,12 @@
     ],
     "products":[
         {
-            "name": "super puper lamp 😍",
+            "name": "super puper lamp mini😍",
             "price": "2.000.000 $",
-            "power": "1 Kw"
+            "power": "1 Kw",
+            "color": "red",
+            "size": "1m x 1m x 1m",
+            "temperature": "-1°C"
         }
     ]
 }
