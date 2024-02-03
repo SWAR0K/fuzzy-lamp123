@@ -1,5 +1,10 @@
 {
     "users": [
-        
+        {
+            "id":1,
+            "name": "Maxim",
+            "surname":"Khyzhniak",
+            "nickname": "SWAR0K"
+        }
     ]
 }
