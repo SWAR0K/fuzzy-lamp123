@@ -1,10 +1,18 @@
 {
     "users": [
         {
+
             "id": 2,
             "name": "Oksana",
             "surname": "Tereschenko",
             "nickname": "Isoksii"
+        },
+        {
+            "id":1,
+            "name": "Maxim",
+            "surname":"Khyzhniak",
+            "nickname": "SWAR0K"
+
         }
     ]
 }
