@@ -17,12 +17,36 @@
     ],
     "products":[
         {
-            "name": "super puper lamp mini😍",
+            "name": "super puper big lamp😍",
             "price": "2.000.000 $",
             "power": "1 Kw",
             "color": "red",
             "size": "1m x 1m x 1m",
-            "temperature": "-1°C"
+            "temperature": "100°C"
+        },
+        {
+            "name": "super puper mini lamp😍",
+            "price": "1.000.000 $",
+            "power": "0.5 Kw",
+            "color": "green",
+            "size": "0.5m x 0.5m x 0.5m",
+            "temperature": "10°C"
+        },
+        {
+            "name": "super puper average lamp😍",
+            "price": "1.500.000 $",
+            "power": "0.7 Kw",
+            "color": "blue",
+            "size": "0.8m x 0.8m x 0.8m",
+            "temperature": "50°C"
+        },
+        {
+            "name": "defult lamp😍",
+            "price": "5$",
+            "power": "15 W",
+            "color": "white",
+            "size": "0.05m x 0.05m x 0.05m",
+            "temperature": "10°C"
         }
     ]
 }
