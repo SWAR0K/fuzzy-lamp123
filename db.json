@@ -22,7 +22,8 @@
             "power": "1 Kw",
             "color": "red",
             "size": "1m x 1m x 1m",
-            "temperature": "100°C"
+            "temperature": "100°C",
+            "id": "1"
         },
         {
             "name": "super puper mini lamp😍",
@@ -30,7 +31,8 @@
             "power": "0.5 Kw",
             "color": "green",
             "size": "0.5m x 0.5m x 0.5m",
-            "temperature": "10°C"
+            "temperature": "10°C",
+            "id": "2"
         },
         {
             "name": "super puper average lamp😍",
@@ -38,7 +40,8 @@
             "power": "0.7 Kw",
             "color": "blue",
             "size": "0.8m x 0.8m x 0.8m",
-            "temperature": "50°C"
+            "temperature": "50°C",
+            "id": "3"
         },
         {
             "name": "default lamp😍",
@@ -46,7 +49,8 @@
             "power": "15 W",
             "color": "white",
             "size": "0.05m x 0.05m x 0.05m",
-            "temperature": "10°C"
+            "temperature": "10°C",
+            "id": "4"
         }
     ]
 }
